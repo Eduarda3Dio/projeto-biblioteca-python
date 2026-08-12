@@ -9,10 +9,10 @@ Sistema de gerenciamento de biblioteca desenvolvido em Python, utilizando concei
 Projeto desenvolvido para praticar Python, Programação Orientada a Objetos, organização de módulos e tratamento de exceções, simulando o funcionamento de um sistema de biblioteca.
 
 Funcionalidades:
-  Cadastro de usuários
-  Cadastro de livros
-  Empréstimo e devolução de livros
-  Gerenciamento da biblioteca
+  Cadastro de usuários,
+  Cadastro de livros,
+  Empréstimo e devolução de livros,
+  Gerenciamento da biblioteca e
   Tratamento de exceções
 
 ---

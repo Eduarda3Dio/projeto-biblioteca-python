@@ -43,7 +43,7 @@ projeto_biblioteca/
 Clone o repositório:
 
 ```
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Eduarda3Dio/projeto-biblioteca-python.git
 ```
 
 Acesse a pasta do projeto:
@@ -51,7 +51,13 @@ Acesse a pasta do projeto:
 ```
 cd projeto_biblioteca
 ````
-```
+
 Execute o programa
+
 ```
 python main.py
+```
+
+## 👩‍💻 Autora
+
+**Eduarda Diorio**
